@@ -26,7 +26,7 @@ Have fun!
 
 ## Screenshot 
 
-![Screenshot_34](https://user-images.githubusercontent.com/113379247/198156389-7cfce721-8ca7-4852-a41e-cd4af80cd249.png)
+![Screenshot_12](https://user-images.githubusercontent.com/113379247/198343697-7b25d887-26c7-4612-9f5d-7a7a4df1a82b.png)
 
 ## License
 
