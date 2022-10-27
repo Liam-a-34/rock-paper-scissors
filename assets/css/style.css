@@ -122,7 +122,14 @@ section {
     .card img {
         width: 100px;
         height: 100px;
-        left: 5%;
         top: 15%;
+    }
+
+    .left {
+        left: 5%;
+    }
+
+    .right {
+        right: 5%;
     }
 }
