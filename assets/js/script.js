@@ -34,15 +34,15 @@ function selection() {
     window.alert("Welcome to Rock, Paper, Scissors!");
     var choice = window.prompt("Please choose Rock, Paper, or Scissors!");
 
-   if (choice === ("Rock" || "rock")){
+   if (choice === "Rock" || choice === "rock"){
     user_rock.style.display="block";
     setTimeout(() => {rock();}, 100);
    }
-   else if (choice === ("Paper" || "paper")) {
+   else if (choice === "Paper" || choice === "paper") {
     user_paper.style.display="block";
     setTimeout(() => {paper();}, 100);
    }
-   else if (choice === ("Scissors" || "scissors")){
+   else if (choice === "Scissors" || choice === "scissors"){
     user_scissors.style.display="block";
     setTimeout(() => {scissors();}, 100);
    } else {
